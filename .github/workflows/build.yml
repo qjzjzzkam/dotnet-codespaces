@@ -1,5 +1,6 @@
 name: Build Backend and Frontend
-
+ipconfig
+10.10.52.1
 on:
   pull_request:
     branches:
